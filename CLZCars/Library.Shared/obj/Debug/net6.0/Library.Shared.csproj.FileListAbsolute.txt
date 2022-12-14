@@ -1,0 +1,36 @@
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\refint\Library.Shared.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\ref\Library.Shared.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.deps.json
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.pdb
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\refint\Library.Shared.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.pdb
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Library.Shared\obj\Debug\net6.0\ref\Library.Shared.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.deps.json
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\bin\Debug\net6.0\Library.Shared.pdb
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\refint\Library.Shared.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\Library.Shared.pdb
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Library.Shared\obj\Debug\net6.0\ref\Library.Shared.dll

@@ -1,0 +1,51 @@
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.deps.json
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Library.Shared.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Model.Shared.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Library.Shared.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Model.Shared.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.CopyComplete
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\refint\Database.Service.dll
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.pdb
+C:\Users\pablo\OneDrive\Área de Trabalho\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\ref\Database.Service.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.deps.json
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.pdb
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Library.Shared.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Model.Shared.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Library.Shared.pdb
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\bin\Debug\net6.0\Model.Shared.pdb
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.AssemblyInfo.cs
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\refint\Database.Service.dll
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.pdb
+C:\Users\USUARIO\Downloads\ClzCars (2)\ClzCars\CLZCars\Database.Service\obj\Debug\net6.0\ref\Database.Service.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.deps.json
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Database.Service.pdb
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Library.Shared.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Model.Shared.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Library.Shared.pdb
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\bin\Debug\net6.0\Model.Shared.pdb
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.csproj.CopyComplete
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\refint\Database.Service.dll
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\Database.Service.pdb
+C:\Users\USUARIO\Desktop\TrabalhoBancoDeDados\BackEnd\CLZCars\Database.Service\obj\Debug\net6.0\ref\Database.Service.dll
